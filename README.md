@@ -1,6 +1,8 @@
 ## Welcome to Concurrent Rendering.
 *Where React doesn't block the road, it negotiates with it*
----------------------------------------------------------------------------------------------------------------
+
+
+----------------------------------------------------------------------------------------
 
 ## So What Even Is Concurrent Rendering?
 
