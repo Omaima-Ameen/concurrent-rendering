@@ -1,5 +1,6 @@
 ## Welcome to Concurrent Rendering.
 *Where React doesn't block the road, it negotiates with it*
+---------------------------------------------------------------------------------------------------------------
 
 ## So What Even Is Concurrent Rendering?
 
@@ -17,6 +18,14 @@ That means if  something took long, the user waited...
 
 This allows React to stay responsive while heavy work is happening in the background.
 
+-----------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
 
 ## Why This Exists
 
@@ -32,6 +41,10 @@ You have priorities?
 Nice. Now you need a system that doesn’t freeze when low-priority work is running.
 
 **That’s concurrency**
+
+------------------------------------------------------------------------------------------------------------
+
+
 
 
 
@@ -76,9 +89,9 @@ Today you understand *how React actually runs in a friendly way*
 
 --------------------------------------------------------------------------------------------------
 
-If I missed something or made a mistake, your contributions or feedback are more than welcome.
+If I missed something or made a mistake, your **contributions or feedback** are more than **welcome**
 
-Feel free to explore, fork, or open issues if you want something explained here.
+Feel free to **explore, fork, or open issues** if you want something explained here.
 I’ll keep expanding this as I learn more ❤
 
-THANK YOU !!
+## THANK YOU !!
